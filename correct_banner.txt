@@ -1,0 +1,14 @@
+banner motd 
+*************** W A R N I N G ***************
+
+This is a private system.
+
+Actual or attempted use, access, communication,
+or examination by unauthorized persons is a criminal
+violation of Title 18, United States Code, Section 1030.
+
+You should have no expectations of privacy,
+all actions taken are monitored and logged.
+
+*********************************************
+
