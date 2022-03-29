@@ -20,7 +20,7 @@ netmiko==2.4.1
 nornir==2.2.0
 nornsible==2019.9.20
 nxapi-plumbing==0.5.2
-paramiko==2.6.0
+paramiko==2.10.1
 pexpect==4.7.0
 ptyprocess==0.6.0
 pycparser==2.19
